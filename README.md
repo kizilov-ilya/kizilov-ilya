@@ -1,4 +1,4 @@
-<img align='center' scr="https://raw.githubusercontent.com/kizilov-ilya/kizilov-ilya/sources/icons/linkedin.svg"</img>
+<img align='center' scr="https://raw.githubusercontent.com/kizilov-ilya/kizilov-ilya/sources/icons/linkedin.svg"></img>
 
 Привет всем 👋👋👋,
 
