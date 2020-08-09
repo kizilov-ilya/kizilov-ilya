@@ -1,4 +1,4 @@
-<p><a href="https://www.linkedin.com/in/ilya-kizilov/"><img align='center' scr="https://raw.githubusercontent.com/kizilov-ilya/kizilov-ilya/sources/icons/linkedin.svg"></img></a></p>
+<p><a href="https://www.linkedin.com/in/ilya-kizilov/"><img align='center' scr="https://raw.githubusercontent.com/kizilov-ilya/kizilov-ilya/sources/icons/linkedin.svg?raw=true"></img></a></p>
 Привет всем 👋👋👋,
 
 Меня зовут Илья и Я - ***`Junior Python Software Engineer`*** 📈. 
