@@ -15,3 +15,12 @@
 <a href="https://www.instagram.com/ilya._romanovich/"><img height="30" src="https://github.com/kizilov-ilya/kizilov-ilya/blob/sources/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ilya-kizilov/"><img height="30" src="https://github.com/kizilov-ilya/kizilov-ilya/blob/sources/icons/linkedin.png?raw=true"></a>
 </p>
+
+---
+
+<p align='center'>О сотрудничестве 🤝</p>
+
+Как истинный *джун* я полон энтузиазма и готов впитывать знания 🧑‍💻. На данный момент я рассматриваю возможность стажировки или
+трудоустройства в целях наработки реального опыта как специалиста 📈. Буду рад рассмотреть Ваше потенциальное предложение!
+
+---
