@@ -1,4 +1,4 @@
-<p align='center'>[![my header](https://raw.githubusercontent.com/kizilov-ilya/kizilov-ilya/sources/icons/linkedin.svg)](https://www.linkedin.com/in/ilya-kizilov/)</p>
+<img align='center' scr="https://raw.githubusercontent.com/kizilov-ilya/kizilov-ilya/sources/icons/linkedin.svg"</img>
 
 Привет всем 👋👋👋,
 
