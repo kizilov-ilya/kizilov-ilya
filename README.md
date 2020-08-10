@@ -26,7 +26,7 @@
 
 ---
 
-[![Python](https://img.shields.io/badge/Language-Python-blue?logo=https://simpleicons.org/?q=python)]()
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)]()
 [![Django](https://img.shields.io/badge/Framework-Django-%23067300)]()
 [![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0)]()
 [![SQL](https://img.shields.io/badge/Language-SQL-%23004d8c)]()
