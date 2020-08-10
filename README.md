@@ -23,7 +23,9 @@
 
 ---
 <p align='center'>Мой опыт ⭐</p>
+
 ---
+
 [![Python](https://img.shields.io/badge/Language-Python-blue)]()
 [![Django](https://img.shields.io/badge/Framework-Django-%23067300)]()
 [![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0)]()
