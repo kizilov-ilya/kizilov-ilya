@@ -22,6 +22,8 @@
 трудоустройства в целях наработки реального опыта как специалиста 📈. Буду рад рассмотреть Ваше потенциальное предложение!
 
 ---
+<p align='center'>Мой опыт ⭐</p>
+---
 [![Python](https://img.shields.io/badge/Language-Python-blue)]()
 [![Django](https://img.shields.io/badge/Framework-Django-%23067300)]()
 [![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0)]()
@@ -36,4 +38,3 @@
 [![PostrgreSQL](https://img.shields.io/badge/RDBMS-PostgreSQL-%23336791)]()
 [![Git](https://img.shields.io/badge/VCS-Git-%23ff4400)]()
 [![DigitalOcean](https://img.shields.io/badge/Server-DigitalOcean-%230080FF)]()
-
