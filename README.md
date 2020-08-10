@@ -22,4 +22,18 @@
 трудоустройства в целях наработки реального опыта как специалиста 📈. Буду рад рассмотреть Ваше потенциальное предложение!
 
 ---
-[![NPM version](https://img.shields.io/badge/Language-Python-blue)]()
+[![Python](https://img.shields.io/badge/Language-Python-blue)]()
+[![Django](https://img.shields.io/badge/Framework-Django-%23067300)]()
+[![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0)]()
+[![SQL](https://img.shields.io/badge/Language-SQL-%23004d8c)]()
+[![HTML](https://img.shields.io/badge/Markup-HTML-%23ff5e00)]()
+[![CSS](https://img.shields.io/badge/Style-CSS-%2300c4eb)]()
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23edd500)]()
+[![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-%23a400c4)]()
+[![Nginx](https://img.shields.io/badge/Server-Nginx-%23009900)]()
+[![Gunicorn](https://img.shields.io/badge/Server-Gunicorn-%23489747)]()
+[![MySQL](https://img.shields.io/badge/RDBMS-MySQL-%23004d8c)]()
+[![PostrgreSQL](https://img.shields.io/badge/RDBMS-PostgreSQL-%23336791)]()
+[![Git](https://img.shields.io/badge/VCS-Git-%23ff4400)]()
+[![DigitalOcean](https://img.shields.io/badge/Server-DigitalOcean-%230080FF)]()
+
