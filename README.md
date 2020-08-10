@@ -28,7 +28,7 @@
 
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)]()
 [![Django](https://img.shields.io/badge/Framework-Django-%23067300?logo=django)]()
-[![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0?logo=aiogram)]()
+[![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0?logo=Telegram)]()
 [![SQL](https://img.shields.io/badge/Language-SQL-%23004d8c?logo=sql)]()
 [![HTML](https://img.shields.io/badge/Markup-HTML-%23ff5e00?logo=html5)]()
 [![CSS](https://img.shields.io/badge/Style-CSS-%2300c4eb?logo=css3)]()
