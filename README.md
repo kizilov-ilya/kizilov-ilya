@@ -1,6 +1,6 @@
 Привет всем 👋👋👋,
 
-Меня зовут Илья и Я - ***`Junior Python Software Engineer`*** 📈. 
+Меня зовут Илья и Я - ***Junior Python Software Engineer*** 📈. 
 В основном, Я создаю и реализую проекты на тематику **web-разработки**, **чат-ботов**, а также изучаю **Data Science
 / Data Analysis & Visualisation**. Вы можете оценить ⭐ мои проекты, а также оставить отзывы или полезные указания в комментариях ✍.
 В дополнение к этому, Вы можете лично связаться со мной в соц.сетях 📨, ссылки на которые Я оставил ниже. Буду рад любому фидбеку 👌!
@@ -26,17 +26,17 @@
 
 ---
 
-[![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)]()
-[![Django](https://img.shields.io/badge/Framework-Django-%23067300?style=for-the-badge)]()
-[![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0?style=for-the-badge)]()
-[![SQL](https://img.shields.io/badge/Language-SQL-%23004d8c?style=for-the-badge)]()
-[![HTML](https://img.shields.io/badge/Markup-HTML-%23ff5e00?style=for-the-badge)]()
-[![CSS](https://img.shields.io/badge/Style-CSS-%2300c4eb?style=for-the-badge)]()
-[![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23edd500?style=for-the-badge)]()
-[![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-%23a400c4?style=for-the-badge)]()
-[![Nginx](https://img.shields.io/badge/Server-Nginx-%23009900?style=for-the-badge)]()
-[![Gunicorn](https://img.shields.io/badge/Server-Gunicorn-%23489747?style=for-the-badge)]()
-[![MySQL](https://img.shields.io/badge/RDBMS-MySQL-%23004d8c?style=for-the-badge)]()
-[![PostrgreSQL](https://img.shields.io/badge/RDBMS-PostgreSQL-%23336791?style=for-the-badge)]()
-[![Git](https://img.shields.io/badge/VCS-Git-%23ff4400?style=for-the-badge)]()
-[![DigitalOcean](https://img.shields.io/badge/Server-DigitalOcean-%230080FF?style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=https://simpleicons.org/?q=python)]()
+[![Django](https://img.shields.io/badge/Framework-Django-%23067300)]()
+[![aiogram](https://img.shields.io/badge/Tool-aiogram-%2300d4d0)]()
+[![SQL](https://img.shields.io/badge/Language-SQL-%23004d8c)]()
+[![HTML](https://img.shields.io/badge/Markup-HTML-%23ff5e00)]()
+[![CSS](https://img.shields.io/badge/Style-CSS-%2300c4eb)]()
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-%23edd500)]()
+[![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-%23a400c4)]()
+[![Nginx](https://img.shields.io/badge/Server-Nginx-%23009900)]()
+[![Gunicorn](https://img.shields.io/badge/Server-Gunicorn-%23489747)]()
+[![MySQL](https://img.shields.io/badge/RDBMS-MySQL-%23004d8c)]()
+[![PostrgreSQL](https://img.shields.io/badge/RDBMS-PostgreSQL-%23336791)]()
+[![Git](https://img.shields.io/badge/VCS-Git-%23ff4400)]()
+[![DigitalOcean](https://img.shields.io/badge/Server-DigitalOcean-%230080FF)]()
