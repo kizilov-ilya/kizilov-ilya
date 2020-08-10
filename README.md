@@ -1,4 +1,4 @@
-[![header](https://github.com/kizilov-ilya/kizilov-ilya/blob/master/icons/photo_2020-08-10_17-47-46.jpg)]()
+
 
 Привет всем 👋👋👋,
 
